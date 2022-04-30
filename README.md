@@ -6,4 +6,4 @@
 ## 2.[Scope](https://www.w3schools.com/js/js_scope.asp)
 > Global,Block and Function Scope with var,let and const.
 ## 3.[undeclared and undefined variables](https://www.geeksforgeeks.org/what-are-undeclared-and-undefined-variables-in-javascript/)
-*scope of the undeclared variables is global*
+**The scope of the undeclared variables is always global**
