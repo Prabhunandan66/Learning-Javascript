@@ -15,6 +15,6 @@
 * Undeclared variables are undefined because they simply do not exist.
 * assigning a value to an undeclared variable does not cause an error; instead, it implicitly declares the variable in the global scope.
 ## 4.Execution Context,Lexical Environment,Closures
-> [Execution context](https://betterprogramming.pub/javascript-internals-execution-context-bdeee6986b3b#:~:text=Execution%20context%20is%20a%20concept,global%20execution%20context%20is%20created.)
-> [Lexical Environment](https://amnsingh.medium.com/lexical-environment-the-hidden-part-to-understand-closures-71d60efac0e0)
-> [Closures](https://medium.com/@dhruvpathak9305/javascript-closures-in-depth-explaination-154dd46c6bd0)
+### > [Execution context](https://betterprogramming.pub/javascript-internals-execution-context-bdeee6986b3b#:~:text=Execution%20context%20is%20a%20concept,global%20execution%20context%20is%20created.)
+### > [Lexical Environment](https://amnsingh.medium.com/lexical-environment-the-hidden-part-to-understand-closures-71d60efac0e0)
+### > [Closures](https://medium.com/@dhruvpathak9305/javascript-closures-in-depth-explaination-154dd46c6bd0)
