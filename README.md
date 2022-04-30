@@ -21,6 +21,6 @@
 * [Closures](https://medium.com/@dhruvpathak9305/javascript-closures-in-depth-explaination-154dd46c6bd0)
 ## 6.[Built in Data Structures](https://dev.to/kartik2406/built-in-data-structures-in-javascript-hhl)
 * [Arrays](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
-* Set
+* [Set](https://www.freecodecamp.org/news/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2/)
 * Object
 * Map
