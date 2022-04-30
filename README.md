@@ -10,6 +10,9 @@
 ## 2.[Scope](https://www.w3schools.com/js/js_scope.asp)
 > Global,Block and Function Scope with var,let and const.
 ## 3.[undeclared and undefined variables](https://www.geeksforgeeks.org/what-are-undeclared-and-undefined-variables-in-javascript/)
-**The scope of the undeclared variables is always global**
+   [extra reference](https://www.oreilly.com/library/view/javascript-the-definitive/0596000480/ch04s03.html#:~:text=Undeclared%20variables%20are%20undefined%20because,variable%20in%20the%20global%20scope.)
+* The scope of the undeclared variables is always global.
+* Undeclared variables are undefined because they simply do not exist.
+* assigning a value to an undeclared variable does not cause an error; instead, it implicitly declares the variable in the global scope.
 ## 4.[Lexical Environment and Closures](https://amnsingh.medium.com/lexical-environment-the-hidden-part-to-understand-closures-71d60efac0e0)
 > Execution context, Lexical Environment, Closures
