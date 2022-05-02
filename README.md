@@ -21,6 +21,7 @@
 * [Closures](https://medium.com/@dhruvpathak9305/javascript-closures-in-depth-explaination-154dd46c6bd0)
 ## 7.[Type Conversion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
 > Implicit, Explicit Coercion and Data type conversions.
+> [Reference Table](https://dorey.github.io/JavaScript-Equality-Table/)
 ## 6.[Built in Data Structures](https://dev.to/kartik2406/built-in-data-structures-in-javascript-hhl)
 * [Arrays](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
 * [Set](https://www.freecodecamp.org/news/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2/)
