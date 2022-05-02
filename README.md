@@ -22,6 +22,8 @@
 ## 7.[Type Conversion](https://www.freecodecamp.org/news/js-type-coercion-explained-27ba3d9a2839/)
 > Implicit, Explicit Coercion and Data type conversions.
 > [Reference Table](https://dorey.github.io/JavaScript-Equality-Table/)
+* If Type(x) is either String, Number, or Symbol and Type(y) is Object, then return the result of the comparison x == ToPrimitive(y).
+* If Type(x) is Object and Type(y) is either String, Number, or Symbol, then return the result of the comparison ToPrimitive(x) == y.
 ## 6.[Built in Data Structures](https://dev.to/kartik2406/built-in-data-structures-in-javascript-hhl)
 * [Arrays](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
 * [Set](https://www.freecodecamp.org/news/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2/)
