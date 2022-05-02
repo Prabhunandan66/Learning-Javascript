@@ -29,3 +29,4 @@
 * [Set](https://www.freecodecamp.org/news/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2/)
 * Object
 * Map
+## 7. [Shallow copy and Deep Copy](https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/)
