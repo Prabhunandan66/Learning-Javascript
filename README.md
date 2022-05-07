@@ -1,5 +1,6 @@
 # Learning-Javascript :books: ▶️ Concept related Blogs collection :heart_on_fire:
   Websites,Books and Videos to refer 
+ ### ⭐[Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
  ### ⭐[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  ### ⭐[Javascript.info](https://javascript.info/)
  ### ⭐[you don't know JS](https://www.amazon.in/You-Dont-Know-Set-Volumes/dp/9352136268/ref=sr_1_1?keywords=you+dont+know+js&qid=1651303336&s=books&sr=1-1)
