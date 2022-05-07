@@ -9,6 +9,7 @@
 ## 2.[Variable assignments / Referencing](https://www.sitepoint.com/variable-assignment-mutation-javascript/)
 > Topics on Data types, Reassignment ,Assignment by Reference , Mutations ,  Copying
 ## 3.[Variable Shadowing](designcise.com/web/tutorial/what-is-variable-shadowing-in-javascript)
+> [illegal Shadowing](https://www.bookstack.cn/read/You-Dont-Know-JS-Scope-Closures-2nd/spilt.2.975975bd183f374a.md#e2w1cz)
 ## 4.[Scope](https://www.w3schools.com/js/js_scope.asp)
 > Global,Block and Function Scope with var,let and const.
 ## 5.[undeclared and undefined variables](https://www.geeksforgeeks.org/what-are-undeclared-and-undefined-variables-in-javascript/)
