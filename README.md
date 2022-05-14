@@ -11,8 +11,8 @@
 * [Life cycle events](https://tilomitra.com/html-page-lifecycle-events/)
 * [Dom events](http://qnimate.com/understanding-javascript-events-in-depth/)
 ## 3.[Variable assignments / Referencing](https://www.sitepoint.com/variable-assignment-mutation-javascript/)
-> Topics on Data types, Reassignment ,Assignment by Reference , Mutations ,  Copying
-> ['use strict'](https://www.programiz.com/javascript/use-strict)
+* Topics on Data types, Reassignment ,Assignment by Reference , Mutations ,  Copying
+* ['use strict'](https://www.programiz.com/javascript/use-strict)
 ## 4.[Variable Shadowing](designcise.com/web/tutorial/what-is-variable-shadowing-in-javascript)
 > [illegal Shadowing](https://www.bookstack.cn/read/You-Dont-Know-JS-Scope-Closures-2nd/spilt.2.975975bd183f374a.md#e2w1cz)
 ## 5.[Scope](https://www.w3schools.com/js/js_scope.asp)
