@@ -16,7 +16,8 @@
 ## 4.[Variable Shadowing](designcise.com/web/tutorial/what-is-variable-shadowing-in-javascript)
 > [illegal Shadowing](https://www.bookstack.cn/read/You-Dont-Know-JS-Scope-Closures-2nd/spilt.2.975975bd183f374a.md#e2w1cz)
 ## 5.[Scope](https://www.w3schools.com/js/js_scope.asp)
-> Global,Block and Function Scope with var,let and const.
+* Global,Block and Function Scope with var,let and const.
+* [Temporal Dead Zone](https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/#:~:text=A%20temporal%20dead%20zone%20(TDZ,initial%20value%20to%20a%20variable.)
 ## 6.[undeclared and undefined variables](https://www.geeksforgeeks.org/what-are-undeclared-and-undefined-variables-in-javascript/)
    [Extra reference](https://www.oreilly.com/library/view/javascript-the-definitive/0596000480/ch04s03.html#:~:text=Undeclared%20variables%20are%20undefined%20because,variable%20in%20the%20global%20scope.)
 * The scope of the undeclared variables is always global.
