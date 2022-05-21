@@ -44,3 +44,12 @@
 * [forEach](https://www.w3schools.com/jsref/jsref_foreach.asp)
 * [for in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#specifications)
 * [for of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+## 13. [Call,Bind and Apply](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
+## 14.Functions
+* function declaration
+* function expression
+* Higher order functions
+* pure function
+* IIFE
+* arrow functions
+* 
