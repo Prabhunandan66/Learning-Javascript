@@ -36,7 +36,7 @@
 ## 9.[Built in Data Structures](https://dev.to/kartik2406/built-in-data-structures-in-javascript-hhl)
 * [Arrays](https://www.freecodecamp.org/news/the-javascript-array-handbook/)
 * [Set](https://www.freecodecamp.org/news/lets-learn-about-set-and-its-unique-functionality-in-javascript-5654c5c03de2/)
-* Object
+* [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 * Map
 ## 10. [Shallow copy and Deep Copy](https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/)
 
