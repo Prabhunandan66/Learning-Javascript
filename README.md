@@ -45,11 +45,14 @@
 * [for in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#specifications)
 * [for of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 ## 13. [Call,Bind and Apply](https://medium.com/@omergoldberg/javascript-call-apply-and-bind-e5c27301f7bb)
-## 14.Functions
+## 14.[Functions](https://dmitripavlutin.com/6-ways-to-declare-javascript-functions/)
 * function declaration
 * function expression
 * Higher order functions
 * pure function
 * IIFE
 * arrow functions
-* 
+* Callback
+* Iterators
+## 15.Promises,Async and await.
+## 16.
