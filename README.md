@@ -40,6 +40,7 @@
 * Map
 ## 10. [Shallow copy and Deep Copy](https://www.freecodecamp.org/news/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd/)
 ## 11. [Understanding this](https://www.javascripttutorial.net/javascript-this/)
+* [extra reference](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 ## 12. Other useful Loops
 * [forEach](https://www.w3schools.com/jsref/jsref_foreach.asp)
 * [for in](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in#specifications)
