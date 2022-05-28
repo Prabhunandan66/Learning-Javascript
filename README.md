@@ -3,7 +3,7 @@
  ### ⭐[Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
  ### ⭐[MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  ### ⭐[Javascript.info](https://javascript.info/)
- ### ⭐[you don't know JS]() [Book](https://www.amazon.in/You-Dont-Know-Set-Volumes/dp/9352136268/ref=sr_1_1?keywords=you+dont+know+js&qid=1651303336&s=books&sr=1-1)
+ ### ⭐[you don't know JS](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed) [Book](https://www.amazon.in/You-Dont-Know-Set-Volumes/dp/9352136268/ref=sr_1_1?keywords=you+dont+know+js&qid=1651303336&s=books&sr=1-1)
  ### ⭐[Namaste Javascript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
  ### ⭐[Interview Questions](https://www.fullstack.cafe/interview-questions/javascript)
 ## 1.[JavaScript Loading Strategies](https://medium.com/@raviroshan.talk/async-defer-javascript-loading-strategies-da489a0ba47e)
